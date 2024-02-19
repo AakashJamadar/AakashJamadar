@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Bootstrap Capstone project!<br>I'm a college dropout, diving into the development space, especially web development!
+I'm currently learning DSA!<br>I'm a college dropout, diving into solving complex computational problems!
 
 
 # 💻 Tech Stack:
